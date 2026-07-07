@@ -1,0 +1,6 @@
+{
+  "name": "DKPhoto",
+  "description": "An iOS-style web application for professional 35mm film emulation and Meitu-style advanced facial retouching, skin smoothing, and creative makeup adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
